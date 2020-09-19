@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mlbo/mlbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Li Bo 👋
+
+- 🔭 I’m currently working on Edge Intelligence
+- 🌱 I’m currently learning C++&CUDA
+- 🤔 I’m looking for help with  Parallel Computing 
+- 📫 How to reach me: iotsharer@gmail.com
+
+
+![mlbo's github stats](https://github-readme-stats.vercel.app/api?username=mlbo&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
