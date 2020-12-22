@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Bo Lee 👋
+### Hi there, I'm mlbo 👋
 
 - 🔭 I’m currently working on Edge Intelligence
 - 🌱 I’m currently learning C++&CUDA
