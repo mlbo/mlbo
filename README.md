@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlbo&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="mlbo's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mlbo&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="mlbo's github stats"/>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlbo&bg_color=071A2C&text_color=FFFFFF" alt="mlbo's top langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlbo&show_icons=true&count_private=true&hide=prs&theme=default_repocard" alt="mlbo's top langs"/>
 </p>
 
