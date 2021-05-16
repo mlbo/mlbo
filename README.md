@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I'm mlbo 👋
+![](https://komarev.com/ghpvc/?username=mlbo&color=green)
 
 - 🔭 I’m currently working on Edge Intelligence
 - 🌱 I’m currently learning C++&CUDA
